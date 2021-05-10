@@ -1,4 +1,4 @@
-# ESP32-Weather-Station-with-Flutter
+# SWU Smart Mask
 
 <img src="/screenshots/temapp.gif" Height="400" >
 
